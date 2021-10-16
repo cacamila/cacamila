@@ -1,6 +1,8 @@
-## Hey seja Bem vindo(a)! 😄
+### Hey seja Bem vindo(a)!
 
-<div align="center">
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/34613742/137598226-9d36fec6-7607-4ba5-bcd6-7454ad426848.gif)
+
+<div align="left">
   <a href="https://github.com/cacamila">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=cacamila&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cacamila&layout=compact&langs_count=7&theme=radical"/>
