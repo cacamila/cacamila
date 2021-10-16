@@ -1,4 +1,5 @@
-## Hey! Eu sou Camila Amorim 😄
+## Hey seja Bem vindo(a)! 😄
+
 <div align="center">
   <a href="https://github.com/cacamila">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=cacamila&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
