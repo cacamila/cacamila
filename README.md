@@ -7,7 +7,7 @@
 <div align="left">
   <a href="https://github.com/cacamila">
   <img  src="https://github-readme-stats.vercel.app/api?username=cacamila&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=cacamila&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cacamila&layout=compact&langs_count=7&theme=radical"/>
 </div> 
  
   ##
