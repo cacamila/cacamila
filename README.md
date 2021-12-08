@@ -1,4 +1,4 @@
-### Hey seja Bem vindo(a)!
+### Hey seja Bem vinda(o)!
 
 <!--- ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/34613742/137598226-9d36fec6-7607-4ba5-bcd6-7454ad426848.gif)--->
 
